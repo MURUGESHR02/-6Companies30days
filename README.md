@@ -1,6 +1,8 @@
-# -6Companies30days
+### -6Companies30days
+### -ReviseWithArsh
+### 30 Days Challenge by Arsh Goyal
 
-Challenge Company 1 : Microsoft
+# Challenge Company 1 : Microsoft
     1. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
     2. Combination Sum with a twist.
     3. Bulls and Cows
